@@ -1,0 +1,4 @@
+MyFile_02.txt
+
+This is a file for testing Git.
+
