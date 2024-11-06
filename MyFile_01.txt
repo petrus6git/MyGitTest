@@ -2,5 +2,5 @@ This is a file for testing Git.
 First revised
 Second revised
 Third revised at Local PC.
-
+Fourth revised at Local PC in branch2.
 
