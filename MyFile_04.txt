@@ -4,3 +4,4 @@ This is a file for testing Git.
 First revised at Local PC in branch3.
 Second revised at Local PC in branch3.
 Third revised at Local PC in branch3.
+Fourth revised at Local PC in branch3.
