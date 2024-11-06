@@ -1,4 +1,9 @@
 MyFile_02.txt
 
 This is a file for testing Git.
+First revised at local PC in branch2
+Second revised at local PC in branch2
+Third revised at local PC in branch2
+fourth revised at local PC in branch2
+
 
