@@ -1,1 +1,6 @@
 *.bak
+*.orig
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
